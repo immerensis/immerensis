@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **learning GoLang**
 
-- 👨‍💻 All of my projects are available at [www.immerensis.me](www.immerensis.me)
+- 👨‍💻 All of my projects are available at [www.immerensis.me](http://www.immerensis.me)
 
 - 💬 Ask me about **C, Java, Kotlin [basics of these languages]**
 
