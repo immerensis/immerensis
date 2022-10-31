@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **on my DSA skills**
 
-- 🌱 I’m currently learning **C++, GoLang**
+- 🌱 I’m currently learning ** GoLang**
 
 - 👯 I’m looking to collaborate on **Anything interesting**
 
